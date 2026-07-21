@@ -1,0 +1,1 @@
+# ru_tampermonkey-universal-ai-prompt-commands
